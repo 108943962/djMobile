@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "gateway",
+    "gitCompany": "",
+    "baseName": "djMobile",
+    "packageName": "com.dj.mobile",
+    "packageFolder": "com/dj/mobile",
+    "serverPort": 8088,
+    "serviceDiscoveryType": "consul",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "ZjUzMjhmMDI0NzdlZDdiOTg4YWU5Mjk3MGJiMjE3YWVjYmU3NDY2ZDNhNWM1OGRjYTQ3OThlMzllMjI5ZTBkMzJmOGFiZWY3ZTdkMThlOTgyZjQ1OWM4MmExNTk5OWM1NjUyODgxZGFhYzc2ZDgyZTc2MmUxMmJhOTFkYzYwZGM=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "108943962",
+  "repository-name": "djMobile"
+}
